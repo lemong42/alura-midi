@@ -4,7 +4,7 @@
 
 ![Banner do projeto Alura MIDI](https://user-images.githubusercontent.com/90742197/187320393-750419c2-4d16-41c7-850d-c25a519ae62c.png)
 
-<img alt="Shield de status finalizado" src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=green&style=for-the-badge">
+<img alt="Shield de status em desenvolvimento" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=green&style=for-the-badge">
 <img alt="Shield de last update no dia 29.08.2022" src="http://img.shields.io/static/v1?label=LAST%20UPDATE&message=29.08.2022&color=blue&style=for-the-badge">
 
 Esse projeto foi desenvolvido para mergulhar na integração entre JavaScript com páginas web desenvolvidas com HTML e CSS. Nele criamos um MIDI no qual ao apertar uma tecla, seja com o mouse ou com o teclado, um som correspondente a tecla será reproduzido.
